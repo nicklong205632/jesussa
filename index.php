@@ -1,4 +1,4 @@
 <?php
-header("Location: http://hellogas.com/en/");
+header("Location: http://www.hemsleyandhemsley.com/recipes/all-recipes/");
 die();
 ?>
